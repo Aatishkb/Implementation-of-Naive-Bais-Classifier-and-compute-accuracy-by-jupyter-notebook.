@@ -1,4 +1,4 @@
-# Implementation-of-Naive-Bayes-Classifier-and-compute-accuracy-by-jupyter-notebook.
+# Implementation-of-Naive-Bayes-Classifier-algorithm-and-compute-accuracy-by-jupyter-notebook.
 * Definition:-
     * Naive-Bayes-Classifier is supervised machine learning that uses labelled data and which is used to solved classification and regression problem.
      
@@ -13,7 +13,11 @@
     * P(A) is the prior probability of A.
     * P(B) is the prior probability of B.
  * Working :-
-    * Step 1:- Select the data-set
+    * Step 1:- Select the data-set.
+    * Step 2:- Calculate Probability of each attribute that is present in data-set.
+    * Step 3:- Applying Naive-Bayes-Classifier-algorithm for given condition and find probability of YES and probability of NO.
+    * Steo 4:- Apply Normalization :- probability of YES + probability of NO = 1
+    * Step 5:- Decision can be taken according to highest probability of YES/NO.
 
      
 
