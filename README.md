@@ -1,0 +1,1 @@
+# Implementation-of-Naive-Bais-Classifier-and-compute-accuracy-by-jupyter-notebook.
